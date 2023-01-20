@@ -1,0 +1,19 @@
+{
+  "myheroes": [
+    {
+      "id": 1,
+      "name": "DBoss",
+      "favMovie": "Kranthi"
+    },
+    {
+      "id": 2,
+      "name": "Kichaa",
+      "favMovie": "Kotigobba 2"
+    },
+    {
+      "id": 3,
+      "name": "Dolly",
+      "favMovie": "Tagaru "
+    }
+  ]
+}

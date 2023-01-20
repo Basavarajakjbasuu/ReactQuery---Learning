@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+	font-size: 1.4rem;
+	color: black;
+	font-weight: normal;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	background-color: blanchedalmond;
+	height: 3rem;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	padding: 1.6rem;
+}
+
+ul {
+	text-decoration: none;
+	list-style: none;
+}
+
+.heroName {
+	font-size: 1.4rem;
+	margin: 1rem 0.5rem;
+	font-weight: 500;
+}
